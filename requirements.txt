@@ -1,0 +1,11 @@
+ultralytics==8.0.221
+opencv-python==4.10.0.82
+numpy==1.26.4
+matplotlib==3.8.4
+pandas==2.2.2
+scikit-learn==1.4.2
+seaborn==0.13.2
+tqdm==4.66.4
+pyyaml==6.0.1
+ipython==8.24.0
+torch>=2.0
